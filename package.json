@@ -1,0 +1,13 @@
+{
+  "id": "mixpanel",
+  "name": "mixpanel",
+  "version": "1.0.0",
+  "description": "Mixpanel recipe for franz",
+  "main": "index.js",
+  "author": "Facundo Espinosa <facuespinosa97@gmail.com>",
+  "license": "MIT",
+  "repository": "algo",
+  "config": {
+    "serviceURL": "https://mixpanel.com"
+  }
+}
